@@ -23,7 +23,7 @@ body, html {
 
 }
 /* xs */
-/* @media (max-width:768px) {
+@media (max-width:768px) {
 
   .cardImg{
    height: 100px;
@@ -37,7 +37,10 @@ body, html {
     min-width: 150px;
   }
 }
- */
+
+.container{
+  border-radius:25px ;
+}
 
 .logo {
   color:#1C3065;
@@ -328,3 +331,4 @@ body, html {
   color: darkblue;
   font-size: 3em;
 } */
+
